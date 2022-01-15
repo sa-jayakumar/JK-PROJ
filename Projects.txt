@@ -6,5 +6,7 @@ sales management system
 
 Purchase Management system
 
+inventory
+production
 
 Thank you
